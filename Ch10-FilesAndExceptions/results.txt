@@ -1,0 +1,6 @@
+
+The file alice.txt has about 12763 words.
+The file siddharta.txt has about 42172 words.
+The file moby_dick.txt has about 4594 words.
+The file little_women.txt has about 189079 words.
+Sorry, the file tomas.txt does not exist.
